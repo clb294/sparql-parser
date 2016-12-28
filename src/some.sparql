@@ -1,0 +1,4 @@
+SELECT ?a
+FROM DATASET <http://some.com> {
+    ?a ?b ?c .
+}

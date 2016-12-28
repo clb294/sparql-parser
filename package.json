@@ -1,0 +1,28 @@
+{
+  "name": "sparql-parser",
+  "version": "0.0.1",
+  "description": "Parser Sparql",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clb294/sparql-parser.git"
+  },
+  "keywords": [
+    "sparql",
+    "parser",
+    "syntax",
+    "antlr"
+  ],
+  "author": "chris borodic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clb294/sparql-parser/issues"
+  },
+  "homepage": "https://github.com/clb294/sparql-parser#readme",
+  "devDependencies": {
+    "antlr4": "^4.6.0"
+  }
+}
